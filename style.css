@@ -40,7 +40,15 @@ body {
     float: right;
     text-align: left;
     font-weight: 500;
+    transition: all 0.4s ease;
 }
+.navbar-nav li a:hover {
+    color: #0d0855 !important;
+    float: right;
+    text-align: left;
+    font-weight: 500;
+}
+
 .navbar-nav li {
     padding-right: 10px;
 }
