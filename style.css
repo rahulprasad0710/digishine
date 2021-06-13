@@ -44,9 +44,6 @@ body {
 }
 .navbar-nav li a:hover {
     color: #0d0855 !important;
-    float: right;
-    text-align: left;
-    font-weight: 500;
 }
 
 .navbar-nav li {
